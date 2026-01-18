@@ -2,7 +2,7 @@ export const SITE_CONFIG = {
   name: "CashoutPayLater.my",
   domain: "https://cashoutpaylater.my",
   description: "Perkhidmatan tunai segera dari SPayLater, Boost PayFlex & Grab PayLater. Proses pantas, selamat, dan kadar terbaik di Malaysia.",
-  whatsappLink: "https://wa.me/60123456789?text=Hai%20CashoutPayLater%2C%20saya%20berminat%20nak%20tunaikan%20limit%20saya.",
+  whatsappLink: "https://wa.me/601111275537?text=Hai%20CashoutPayLater%2C%20saya%20berminat%20nak%20tunaikan%20limit%20saya.",
   keywords: ["cashout spaylater", "tukaran paylater ke tunai", "boost payflex cashout", "grab paylater malaysia", "pinjaman wang segera"],
 };
 
@@ -52,12 +52,11 @@ export const CONTENT = {
     { title: "Perkhidmatan 24/7", desc: "Kami sedia membantu pada bila-bila masa." },
   ],
   testimonials: [
-    { id: 1, text: "Mantap servis laju gila. Masuk terus akaun.", image: "/images/testi-1.jpg" },
-    { id: 2, text: "Trusted seller. Awalnya takut, tapi CS guide sampai jadi.", image: "/images/testi-2.jpg" },
-    { id: 3, text: "Rate paling rendah saya jumpa. Recommended!", image: "/images/testi-3.jpg" },
-    { id: 4, text: "Process 10 minit je dah settle. Terima kasih bos.", image: "/images/testi-4.jpg" },
-    { id: 5, text: "Dah banyak kali repeat order sini. Terbaik.", image: "/images/testi-5.jpg" },
-    { id: 6, text: "Senang deal, tak banyak cerewet.", image: "/images/testi-6.jpg" },
+    { id: 1, text: "Mantap servis laju gila. Masuk terus akaun.", image: "/images/testi1.JPG" },
+    { id: 2, text: "Trusted seller. Awalnya takut, tapi CS guide sampai jadi.", image: "/images/testi2.JPG" },
+    { id: 3, text: "Rate paling rendah saya jumpa. Recommended!", image: "/images/testi3.JPG" },
+    { id: 4, text: "Process 10 minit je dah settle. Terima kasih bos.", image: "/images/testi4.JPG" },
+
   ],
   contact: {
     title: "Hubungi Kami",
