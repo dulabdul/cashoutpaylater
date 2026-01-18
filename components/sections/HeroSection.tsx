@@ -14,14 +14,14 @@ export default function HeroSection() {
       {/* Background Image with Overlay */}
       <div className='absolute inset-0 z-0'>
         <Image
-          src='https://placehold.co/1920x1080/0f172a/0ea5e9/png?text=Abstract+Finance+Background'
+          src='/images/hero1.jpg'
           alt='Finance Background'
           fill
           priority
           className='object-cover'
           sizes='100vw'
         />
-        <div className='absolute inset-0 bg-slate-900/80 bg-gradient-to-r from-slate-900 via-slate-900/90 to-transparent' />
+        <div className='absolute inset-0 bg-slate-900/40 bg-gradient-to-r from-slate-900 via-slate-900/60 to-transparent' />
       </div>
 
       <Container className='relative z-10 w-full'>

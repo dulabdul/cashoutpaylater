@@ -12,7 +12,7 @@ export default function AboutSection() {
         <div className='grid md:grid-cols-2 gap-12 items-center'>
           <div className='relative h-[400px] rounded-2xl overflow-hidden shadow-2xl group'>
             <Image
-              src='https://placehold.co/600x800/e2e8f0/0ea5e9?text=Happy+Customer'
+              src='/images/about.webp'
               alt={CONTENT.about.imageAlt}
               fill
               className='object-cover group-hover:scale-105 transition-transform duration-500'
