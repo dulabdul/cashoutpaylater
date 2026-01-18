@@ -36,7 +36,7 @@ export default function Navbar() {
               <Wallet size={24} />
             </div>
             <span
-              className={`text-xl font-bold ${isScrolled ? 'text-slate-900' : 'text-slate-900 lg:text-white'}`}>
+              className={`text-xl font-bold ${isScrolled ? 'text-slate-900' : 'text-white'}`}>
               CashoutPayLater
             </span>
           </Link>
